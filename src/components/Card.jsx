@@ -5,9 +5,11 @@ function Card(props) {
         <div className="dictionary">
             <div className="term">
                 <div>
-                    <h2 className="emoji">{props.emoji}</h2>
-                    <dt><span>{props.name}</span></dt>
-                    <dl>{props.meaning}</dl>
+                    <dt>
+                        <span className="emoji">{props.emoji}</span>
+                        <span>{props.name}</span>
+                    </dt>
+                    <dd>{props.meaning}</dd>
                 </div>
                 
             </div>

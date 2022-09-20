@@ -19,6 +19,13 @@ const emojipedia = [
       name: "Rolling On The Floor, Laughing",
       meaning:
         "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+    },
+    {
+      id: 4,
+      emoji: "🙈 ",
+      name: "See-No-Evil Monkey",
+      meaning:
+        "The see no evil monkey, called Mizaru (Japanese for “see not”), one of the Three Wise Monkeys. Depicted as the brown 🐵 Monkey Face with hands covering its eyes."
     }
   ];
   
